@@ -1,2 +1,14 @@
 # manguanservice-journal
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
